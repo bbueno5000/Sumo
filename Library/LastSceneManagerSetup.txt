@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ML-Agents/Sumo/Scenes/Wheeled.unity
+  isLoaded: 1
+  isActive: 1
